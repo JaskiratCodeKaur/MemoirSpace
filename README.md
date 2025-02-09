@@ -54,3 +54,34 @@ npm install
 
 # Configure environment
 cp .env.example .env
+```
+<h2>🌐 API Setup</h2>
+<details>
+<summary>📌 Get Weather API Key</summary>
+<ol>
+  <li>Visit <a href="https://www.weatherapi.com/">weatherapi.com</a></li>
+  <li>Create free account</li>
+  <li>Copy your API key</li>
+  <li>Create <code>api/weatherAPI.js</code> file:</li>
+</ol>
+
+<pre><code class="language-javascript">const apiKey = "YOUR_API_KEY_HERE";</code></pre>
+</details>
+
+
+<h2>🤝 Contributing</h2>
+<div style="background: #f5f5f5; padding: 15px; border-radius: 5px;">
+  <ol>
+    <li>Fork the Project</li>
+    <li>Create your Feature Branch
+      <pre><code>git checkout -b feature/AmazingFeature</code></pre>
+    </li>
+    <li>Commit your Changes
+      <pre><code>git commit -m 'Add some AmazingFeature'</code></pre>
+    </li>
+    <li>Push to the Branch
+      <pre><code>git push origin feature/AmazingFeature</code></pre>
+    </li>
+    <li>Open a Pull Request</li>
+  </ol>
+</div>
