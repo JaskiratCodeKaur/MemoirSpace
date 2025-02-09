@@ -46,7 +46,7 @@ MemoirSpace is a modern digital diary that combines security with elegant design
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/MemoirSpace.git
+git clone https://github.com/JaskiratCodeKaur/MemoirSpace.git
 
 # Install dependencies
 npm install
