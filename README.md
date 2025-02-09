@@ -41,7 +41,6 @@ MemoirSpace is a modern digital diary that combines security with elegant design
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
 ![Realm](https://img.shields.io/badge/-Realm-39477F?logo=realm&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 
 ## ⚙️ Installation
 
