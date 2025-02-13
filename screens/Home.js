@@ -99,7 +99,7 @@ export default function Home() {
                 {
                   backgroundColor: lightmode
                     ? "rgba(21, 32, 43, 0.1)"
-                    : "rgba(255, 255, 255, 0.4)",
+                    : "rgba(255, 255, 255, 0.5)",
                 },
               ]}
             >
@@ -117,7 +117,7 @@ export default function Home() {
                 {
                   backgroundColor: lightmode
                     ? "rgba(21, 32, 43, 0.1)"
-                    : "rgba(255, 255, 255, 0.4)",
+                    : "rgba(255, 255, 255, 0.1)",
                 },
               ]}
             >

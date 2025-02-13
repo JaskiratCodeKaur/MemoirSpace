@@ -29,7 +29,7 @@ const Dashboard = () => {
     'cloudy': require('../assets/weather/cloudy_1.png'),
     'partly-cloudy-day': require('../assets/weather/cloudy-day.png'),
     'partly-cloudy-night': require('../assets/weather/cloudy-night.png'),
-    'clear-day': require('../assets/weather/clear-day.webp'),
+    'clear-day': require('../assets/weather/snowy.png'),
     'clear-night': require('../assets/weather/clear-night.png'),
     'snow-showers-day': require('../assets/weather/cloudDay.png'),
     'snow-showers-night': require('../assets/weather/cloudsnow.png'),

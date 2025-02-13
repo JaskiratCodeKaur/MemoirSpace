@@ -1,7 +1,7 @@
 import * as SQLite from "expo-sqlite";
 
 // Open or create the database (db will be created if it doesn't exist)
-const db = SQLite.openDatabase("feelio.db");
+const db = SQLite.openDatabase("memoirspace.db");
 
 // Function to initialize the database (e.g., create tables)
 const initializeDatabase = () => {
