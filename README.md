@@ -67,6 +67,17 @@ cp .env.example .env
 <pre><code class="language-javascript">const apiKey = "YOUR_API_KEY_HERE";</code></pre>
 </details>
 
+<h2>🖼 Screenshots</h2>
+<div align="center">
+  <img src="./assets/screenshots/splashscreen.jpeg" width="30%" alt="Splash Screen">
+  <img src="./assets/screenshots/nickname.jpeg" width="30%" alt="Main Interface">
+  <img src="./assets/screenshots/security.jpeg" width="30%" alt="Entry Creation">
+  
+  <img src="./assets/screenshots/homepage-light.jpeg" width="30%" alt="Customization">
+  <img src="./assets/screenshots/homepage-dark.jpeg" width="30%" alt="Security Settings">
+  <img src="./assets/screenshots/settings.jpeg" width="30%" alt="Search Functionality">
+   <img src="./assets/screenshots/diarypage.jpeg" width="30%" alt="Search Functionality">
+</div>
 
 <h2>🤝 Contributing</h2>
 <div style="background: #f5f5f5; padding: 15px; border-radius: 5px;">
