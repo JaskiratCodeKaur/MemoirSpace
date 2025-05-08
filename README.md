@@ -5,7 +5,6 @@
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.73.6-61dafb?style=flat&logo=react)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-6.3.5-000020?style=flat&logo=expo)](https://expo.io/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 
 </div>
 
